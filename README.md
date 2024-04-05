@@ -1,6 +1,11 @@
+# Stack 
+
+This side-project uses JavaScript, React, Express.js and Node. It was started with create-react-app. 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
 
 ## Available Scripts
 
